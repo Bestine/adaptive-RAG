@@ -6,4 +6,4 @@ llm = llm_model
 
 prompt = hub.pull("rlm/rag-prompt")
 
-generation_chain = prompt | StrOutputParser
+generation_chain = prompt | llm | StrOutputParser()
