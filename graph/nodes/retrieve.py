@@ -4,7 +4,7 @@ from graph.state import GraphState
 from ingestion import retriever
 
 
-def retrieve(state: Graphics) -> Dict[str, Any]:
+def retrieve(state: GraphState) -> Dict[str, Any]:
     print("---RETRIEVE---")
     question = state["question"]
 

@@ -6,6 +6,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGener
 
 load_dotenv()
 
+
 # llm_model = ChatOpenAI(temperature=0)
 # llm_model = ChatBedrock(
 #     model_id = "us.anthropic.claude-sonnet-4-20250514-v1:0",
