@@ -73,7 +73,7 @@ git clone https://github.com/piyushagni5/langgraph-ai.git
 cd agentic-rag/agentic-rag-systems/building-adaptive-rag/
 ```
 
-3. **Create and activate virtual environment**
+3. **Create and activate virtual environment in the project directory**
 
 ```bash
 uv venv --python 3.10
