@@ -142,6 +142,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgements
 
-- Original LangChain repository: [LangChain Cookbook](https://github.com/mistralai/cookbook/tree/main/third_party/langchain)
-- By Sophia Young from Mistral & Lance Martin from LangChain
 - Built with LangGraph 🦜🕸️
