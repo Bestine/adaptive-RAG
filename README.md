@@ -1,5 +1,7 @@
 # Adaptive RAG
 
+![adaptive RAG](images/adaptive-RAG.png)
+
 Adaptive RAG is an advanced strategy for RAG that intelligently combines (1) dynamic query analysis with (2) active/self-corrective mechanisms.
 
 Adaptive RAG represents the most sophisticated evolution, addressing a fundamental insight: not all queries are created equal. The research reveals that real-world queries exhibit vastly different complexity levels:
